@@ -1,0 +1,65 @@
+Codon	    Letter	 
+AAA	K	Lysine
+AAC	N	Asparagine
+AAG	K	Lysine
+AAT	N	Asparagine
+ACA	T	Threonine
+ACC	T	Threonine
+ACG	T	Threonine
+ACT	T	Threonine
+AGA	R	Arginine
+AGC	S	Serine
+AGG	R	Arginine
+AGT	S	Serine
+ATA	I	Isoleucine
+ATC	I	Isoleucine
+ATG	M	Methionine
+ATT	I	Isoleucine
+CAA	Q	Glutamine
+CAC	His	H	Histidine
+CAG	Gln	Q	Glutamine
+CAT	His	H	Histidine
+CCA	Pro	P	Proline
+CCC	Pro	P	Proline
+CCG	Pro	P	Proline
+CCT	Pro	P	Proline
+CGA	Arg	R	Arginine
+CGC	Arg	R	Arginine
+CGG	Arg	R	Arginine
+CGT	Arg	R	Arginine
+CTA	Leu	L	Leucine
+CTC	Leu	L	Leucine
+CTG	Leu	L	Leucine
+CTT	Leu	L	Leucine
+GAA	Glu	E	Glutamic_acid
+GAC	Asp	D	Aspartic_acid
+GAG	Glu	E	Glutamic_acid
+GAT	Asp	D	Aspartic_acid
+GCA	Ala	A	Alanine	
+GCC	Ala	A	Alanine	
+GCG	Ala	A	Alanine	
+GCT	Ala	A	Alanine	
+GGA	Gly	G	Glycine
+GGC	Gly	G	Glycine
+GGG	Gly	G	Glycine
+GGT	Gly	G	Glycine
+GTA	Val	V	Valine
+GTC	Val	V	Valine
+GTG	Val	V	Valine
+GTT	Val	V	Valine
+TAA	Stp	O	Stop
+TAC	Tyr	Y	Tyrosine
+TAG	Stp	O	Stop
+TAT	Tyr	Y	Tyrosine
+TCA	Ser	S	Serine
+TCC	Ser	S	Serine
+TCG	Ser	S	Serine
+TCT	Ser	S	Serine
+TGA	Stp	O	Stop
+TGC	Cys	C	Cysteine
+TGG	Trp	W	Tryptophan
+TGT	Cys	C	Cysteine
+TTA	Leu	L	Leucine
+TTC	Phe	F	Phenylalanine
+TTG	Leu	L	Leucine
+TTT	Phe	F	Phenylalanine

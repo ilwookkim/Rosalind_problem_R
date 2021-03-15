@@ -1,0 +1,4 @@
+Rosalind_8572 Rosalind_8472 Rosalind_2938 Rosalind_7102 Rosalind_0203 Rosalind_2442 
+     47.75465      50.58573      49.01099      49.32015      49.79123      52.81286 
+Rosalind_5840 Rosalind_0053 Rosalind_3658 Rosalind_6392 
+     48.48117      51.84794      47.26891      52.92767
